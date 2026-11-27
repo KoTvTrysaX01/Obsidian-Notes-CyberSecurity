@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee723bae09b0e71d",
+        "id": "9f74b99e5d992de5",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8505f1ee858170",
+            "id": "df311e0461698e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Funtamentals of Security.md",
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funtamentals of Security"
+              "title": "Confidentiality"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "84e9e326a696c332",
@@ -127,6 +127,16 @@
             }
           },
           {
+            "id": "6b8505f1ee858170",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "fa84a23c9a204f4f",
             "type": "leaf",
             "state": {
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Funtamentals of Security.md",
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,23 +190,25 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "graph:Open graph view": false
     }
   },
-  "active": "6b8505f1ee858170",
+  "active": "df311e0461698e6e",
   "lastOpenFiles": [
-    "CompTIA Security+/Section 1 - Introduction/Exam Tips.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Threats and Vulnerabilities.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
+    "attachments/Pasted image 20261127141144.png",
+    "attachments",
     "CompTIA Security+/Section 2 - Fundamentals of Security/Funtamentals of Security.md",
+    "CompTIA Security+/Section 1 - Introduction/Exam Tips.md",
     "CompTIA Security+/Section 2 - Fundamentals of Security",
     "attachments/Pasted image 20261125172810.png",
     "attachments/Pasted image 20261125172637.png",
-    "attachments",
     "README.md",
     "Concepts/Interview Questions.md",
     "Concepts/OSI Model.md",
