@@ -3,7 +3,7 @@
 3. Answer the questions based on CompTIA Security+ knowledge.
 4. Select the **best** answer.
 5. Understand the key concepts of the test question.
-	1. [[Confidentiality]] -> [[Encryption]].
+	1. [[3. Confidentiality]] -> [[Encryption]].
 	2. [[Integrity]] -> [[Hashing]].
 	3. [[Availability]] -> [[Redundancy]] & [[Resiliency]].
 6. Do not memorize the terms word for word, try to understand them instead.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
+                "file": "Concepts/Regular audits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidentiality"
+              "title": "Regular audits"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -130,10 +130,14 @@
             "id": "6b8505f1ee858170",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Security+/Section 1 - Introduction/Exam Tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam Tips"
             }
           },
           {
@@ -148,7 +152,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -162,7 +166,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas las propiedades"
             }
           },
           {
@@ -171,17 +175,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
+                "file": "Concepts/Regular audits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "53fa329b3922957a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -189,29 +203,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "graph:Open graph view": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "df311e0461698e6e",
   "lastOpenFiles": [
-    "CompTIA Security+/Section 2 - Fundamentals of Security/Threats and Vulnerabilities.md",
-    "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
+    "CompTIA Security+/Section 1 - Introduction/Exam Tips.md",
+    "Concepts/Regular audits.md",
+    "Concepts/Access controls.md",
+    "Concepts/OSI Model.md",
+    "Concepts/Hashing.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/4. Integrity.md",
+    "Concepts/Checksums.md",
+    "Concepts/Digital signatures.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/3. Confidentiality.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/2. Threats and Vulnerabilities.md",
+    "Encryption.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/1. Funtamentals of Security.md",
     "attachments/Pasted image 20261127141144.png",
     "attachments",
-    "CompTIA Security+/Section 2 - Fundamentals of Security/Funtamentals of Security.md",
-    "CompTIA Security+/Section 1 - Introduction/Exam Tips.md",
     "CompTIA Security+/Section 2 - Fundamentals of Security",
     "attachments/Pasted image 20261125172810.png",
     "attachments/Pasted image 20261125172637.png",
     "README.md",
-    "Concepts/Interview Questions.md",
-    "Concepts/OSI Model.md",
+    "Interview Questions.md",
     "IES San Vicente/Análisis Forense Informático/Tema 2 - Windows/CTFs",
     "Concepts",
     "IES San Vicente/Análisis Forense Informático/Tema 2 - Windows",
