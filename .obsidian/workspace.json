@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f74b99e5d992de5",
+        "id": "ea40ac3d2331c1ce",
         "type": "tabs",
         "children": [
           {
-            "id": "df311e0461698e6e",
+            "id": "1f2661d76b7e8506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Regular audits.md",
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Non-Repudiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular audits"
+              "title": "Non-Repudiation"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#OBJ_1_1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/OSI Model.md",
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Non-Repudiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -118,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/OSI Model.md",
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Non-Repudiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -170,12 +170,36 @@
             }
           },
           {
+            "id": "df311e0461698e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Integrity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integrity"
+            }
+          },
+          {
+            "id": "26549c6d925025b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
             "id": "325a71c57406b900",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Regular audits.md",
+                "file": "CompTIA Security+/Section 2 - Fundamentals of Security/Non-Repudiation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -203,8 +227,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
@@ -213,19 +237,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df311e0461698e6e",
+  "active": "1f2661d76b7e8506",
   "lastOpenFiles": [
-    "CompTIA Security+/Section 2 - Fundamentals of Security/4. Integrity.md",
-    "CompTIA Security+/Section 2 - Fundamentals of Security/1. Funtamentals of Security.md",
-    "CompTIA Security+/Section 2 - Fundamentals of Security/2. Threats and Vulnerabilities.md",
-    "CompTIA Security+/Section 2 - Fundamentals of Security/3. Confidentiality.md",
-    "Concepts/Regular audits.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Integrity.md",
+    "Concepts/Digital signatures.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Threats and Vulnerabilities.md",
+    "Rermissions.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Non-Repudiation.md",
+    "Threat.md",
     "CompTIA Security+/Section 1 - Introduction/Exam Tips.md",
-    "Concepts/Access controls.md",
-    "Concepts/OSI Model.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Confidentiality.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Availability.md",
+    "Confidentiality.md",
+    "3. Confidentiality.md",
+    "Concepts/Redundancy.md",
+    "Integrity.md",
     "Concepts/Hashing.md",
     "Concepts/Checksums.md",
-    "Concepts/Digital signatures.md",
+    "Concepts/Access controls.md",
+    "CompTIA Security+/Section 2 - Fundamentals of Security/Funtamentals of Security.md",
+    "Concepts/Regular audits.md",
+    "Concepts/OSI Model.md",
     "Encryption.md",
     "attachments/Pasted image 20261127141144.png",
     "attachments",

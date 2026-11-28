@@ -17,6 +17,9 @@ Tempered data can cause catastrophic decisions.
 3. [[Checksums]]
 4. [[Access controls]]
 5. [[Regular audits]]
+# Key Takeaway
+* Integrity ensures that data remains consistent, accurate, and unaltered throughout its lifecycle
+* [[Hashing]] is the primary verification tool
 
 #OBJ_1_1 #CIA_Triad
 

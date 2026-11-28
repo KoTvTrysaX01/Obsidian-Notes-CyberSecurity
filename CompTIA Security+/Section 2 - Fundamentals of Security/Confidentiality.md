@@ -1,6 +1,6 @@
 The protection of information from unauthorized access
 
-``Confidentiality is about keeping sensitive information out of the wrong hands while still letting the right hands work with it
+>Confidentiality is about keeping sensitive information out of the wrong hands while still letting the right hands work with it
 ## Why Confidentiality Matters?
 * Personal Privacy. To protect personal privacy
 * Business Advantage. To maintain a competitive business advantage
